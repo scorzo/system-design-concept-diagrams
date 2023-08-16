@@ -17,3 +17,4 @@ System Design Concept Diagrams
 - [Terraform](https://github.com/scorzo/system-design-concept-diagrams/blob/main/Terraform.pdf)
 - [Virtual Memory](https://github.com/scorzo/system-design-concept-diagrams/blob/main/Virtual%20Memory.pdf)
 - [Gitub: Connecting with SSH and HTTPS](https://github.com/scorzo/system-design-concept-diagrams/blob/main/GitHub%20connect%20with%20SSH%20and%20HTTPS.pdf)
+- [Git Concepts](https://github.com/scorzo/system-design-concept-diagrams/blob/main/GIT%20Concepts.pdf)
