@@ -16,3 +16,4 @@ System Design Concept Diagrams
 - [CI/CD Typical Feature Branch Pull Request Workflow](https://github.com/scorzo/system-design-concept-diagrams/blob/main/CI_CD%20Typical%20Feature%20Branch%20Pull%20Request%20Workflow.pdf)
 - [Terraform](https://github.com/scorzo/system-design-concept-diagrams/blob/main/Terraform.pdf)
 - [Virtual Memory](https://github.com/scorzo/system-design-concept-diagrams/blob/main/Virtual%20Memory.pdf)
+- [Gitub: Connecting with SSH and HTTPS](https://github.com/scorzo/system-design-concept-diagrams/blob/main/GitHub%20connect%20with%20SSH%20and%20HTTPS.pdf)
