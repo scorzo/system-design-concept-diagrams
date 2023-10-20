@@ -1,7 +1,7 @@
-Archive of System Design Concept Diagrams / Sean Corzo
+Repository of System Design Conceptual Diagrams
+By Sean Corzo
 
-- Doing Systems Design requires communicating ideas visually using diagramming tools
-- Here's an archive of some of my notes turned into a more visual format 
+Effective system design necessitates the visual representation of ideas through specialized diagramming tools. Presented below is a curated collection of my notes, transformed into structured visual diagrams for enhanced clarity and understanding.
 
 System Design Concept Diagrams
 
